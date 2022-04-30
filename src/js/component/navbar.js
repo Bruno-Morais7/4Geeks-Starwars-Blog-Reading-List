@@ -21,7 +21,7 @@ export const Navbar = () => {
             aria-expanded="false"
           >
             Favorites 
-			<span class="badge badge-primary badge-pill">{"counterFavorites"}</span>
+			<span class="badge badge-primary badge-pill bg-secondary">{"counterFavorites"}</span>
           </button>
           {/* <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
             <a className="dropdown-item" href="#">
